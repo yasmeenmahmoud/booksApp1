@@ -1,0 +1,49 @@
+{
+"rootnode":[
+{
+"title":"The Pragmatic Programmer",
+"auther":"Andy Hunt"
+
+},
+{
+"title":"Clean Code",
+"auther":" Robert C. Martin"
+},
+
+{
+"title":"Code Complete",
+"auther":"Steve McConnell"
+},
+
+{
+"title":"Design Patterns",
+"auther":"Erich Gamma"
+},
+
+{
+"title":"Refactoring",
+"auther":" Martin Fowler"
+},
+
+{
+"title":"The Mythical Man-Month",
+"auther":"Frederick P. Brooks Jr."
+},
+{
+"title":"The C Programming Language",
+"auther":"Brian W. Kernighan"
+},
+{
+"title":"Introduction to Algorithms",
+"auther":" Thomas H. Cormen"
+},
+{
+"title":"Head First Java",
+"auther":"Kathy Sierra"
+},
+{
+"title":"Thinking in Java",
+"auther":"Bruce Eckel"
+}
+]
+}
